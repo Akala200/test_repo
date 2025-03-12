@@ -6,10 +6,9 @@
     "name": "mickasmt",
     "url": "https://twitter.com/mickasmt"
   },
-
-    "engines": {
-      "node": ">=20"
-    },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -66,6 +65,7 @@
     "concurrently": "^8.2.2",
     "contentlayer2": "^0.5.0",
     "date-fns": "^3.6.0",
+    "dotenv": "^16.4.7",
     "lucide-react": "^0.414.0",
     "minimist": "^1.2.8",
     "ms": "^2.1.3",
